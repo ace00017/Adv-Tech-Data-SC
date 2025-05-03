@@ -2,7 +2,7 @@
 # Electric Vehicle Data Analysis Project
 
 File Size was bigger than 25Mb so I could't upload it here
-Please access it from the link below
+Please unzip the file or access it from the link below
 https://catalog.data.gov/dataset/electric-vehicle-population-data
 
 This project uses a public dataset containing electric vehicle registrations across the state of Washington. The original file, `Electric_Vehicle_Population_Data.csv`, includes detailed information about each EV, such as make, model, year, range, MSRP, and more. The goal of this project was to clean the data, explore it visually, and build a simple model to predict the electric driving range of a vehicle based on selected features.
